@@ -1,4 +1,4 @@
--:+1:
--:sparkles:
--:tada:
--:smile:
+:+1:
+- :sparkles:
+- :tada:
+- :smile:
